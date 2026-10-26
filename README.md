@@ -48,7 +48,4 @@ npm run preview
 
 The API requires an internet connection. No authentication, persistence, custom hooks, Context, Redux, Axios, or third-party UI libraries are used.
 
-## Development assistance
-
-This implementation was developed with Codex assistance. The repository history records the actual implementation stages; no commit dates were backdated.
 
