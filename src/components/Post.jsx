@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default function Post({ title, body }) {
   return (
     <article className="post">
@@ -6,4 +8,3 @@ export default function Post({ title, body }) {
     </article>
   );
 }
-

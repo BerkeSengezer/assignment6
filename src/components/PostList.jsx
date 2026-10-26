@@ -1,3 +1,5 @@
+import React from 'react';
+
 import Post from './Post.jsx';
 
 export default function PostList({ posts }) {
@@ -9,4 +11,3 @@ export default function PostList({ posts }) {
     </div>
   );
 }
-

@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default function FilterForm({ filter, onFilterChange }) {
   return (
     <form className="filter-form" onSubmit={(event) => event.preventDefault()}>
@@ -17,4 +19,3 @@ export default function FilterForm({ filter, onFilterChange }) {
     </form>
   );
 }
-
